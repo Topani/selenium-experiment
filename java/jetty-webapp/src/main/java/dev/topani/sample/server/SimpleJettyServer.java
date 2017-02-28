@@ -1,3 +1,4 @@
+package dev.topani.sample.server;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.ResourceHandler;
 
